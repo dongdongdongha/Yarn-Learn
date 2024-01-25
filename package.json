@@ -1,0 +1,16 @@
+{
+  "name": "Yarn-Learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dongdongdongha/Yarn-Learn.git",
+  "author": "dongdongdongha <06dongha@naver.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.3",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "nodemon": "^3.0.3"
+  }
+}
